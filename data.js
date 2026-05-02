@@ -26,9 +26,9 @@ const albums = [
         review: "To be decided",
         songs: "To be decided",
         rating: "To be decided"
-        review: "Still to come!",
-        songs: "Still to come!",
-        rating: "Still to come!"
+    },
+    {
+        day: 4,
         title: "Back to Black",
         artist: "Amy Winehouse",
         image: "btb.jpg",
