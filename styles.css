@@ -17,12 +17,38 @@ header {
     padding: 20px;
 }
 
+/* This targets all links on your website */
+a {
+    /* This removes the underline */
+    text-decoration: none;
+    
+    /* 'inherit' tells the link to use the same color as the text around it */
+    /*  You can also use a specific color like #f8f7f7 */
+    color: inherit; 
+}
+
+/* This ensures the color stays the same even after you have clicked it */
+a:visited {
+    color: inherit;
+}
+
+/* This handles the link when your mouse is actually clicking down on it */
+a:active {
+    color: inherit;
+}
+
+/* This only happens when the mouse is hovering over the link */
+a:hover {
+    color: #ffffff; /* Make it slightly brighter white */
+    text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.3); /* Adds a tiny glow */
+}
+
 /* This targets the container */
 .calendar-grid {
     display: grid;
     /* This tells the grid to make columns that are at least 200px wide */
     /* 'auto-fill' will fit as many as possible based on your screen size */
-    grid-template-columns: repeat(4 , 1fr); /* This creates 7 equal columns, perfect for a week-based calendar */
+    grid-template-columns: repeat(7 , 1fr); /* This creates 7 equal columns, perfect for a week-based calendar */
     gap: 5px; /* This creates the "gutters" or space between the cards */
     padding: 20px;
 }
@@ -76,4 +102,45 @@ header {
 .album-card p{
     font-size: 0.9rem; /* Smaller than the title */
     color: #bbb; /* A lighter grey for the artist name to be more subtle*/
+}
+
+/* This makes the link invisible so the card still looks like a card */
+.card-link {
+    text-decoration: none; 
+    color: inherit; /* Keeps the text color the same as we set in the body */
+    display: block; /* Makes the whole card clickable, not just the text */
+}
+
+.album-card:hover {
+    cursor: pointer; /* Changes the mouse to a hand icon on hover */
+    transform: translateY(-5px); /* Makes the card lift up slightly */
+}
+
+#review-content {
+    max-width: 750px; /* Limits the width of the review content for better readability */
+    margin: 20px auto; /* Centers the container and adds vertical spacing */
+    padding: 20px;
+    background-color: #2a2a2a; /* Matches the card background for consistency */
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.1rem; /* Slightly larger font for easier reading */
+}
+
+.album-review-art{
+    width: 60%;
+    aspect-ratio: 1 / 1; /* This keeps the image perfectly square */
+    object-fit: cover; /* This makes sure the image fills the space without distortion */
+    border-radius : 4px; /* Matches rounded corners of card */
+    margin-bottom: 5px;
+}
+
+.album-review-name {
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #ffffff;
+}
+
+.fav-songs{
+   white-space: pre-line; /* This allows the newline characters in the songs string to create actual line breaks in the display */
 }
