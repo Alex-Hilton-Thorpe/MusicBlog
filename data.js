@@ -16,7 +16,7 @@ const albums = [
         image: "cocoon.jpg",
         review: "Absofacto is a solo project by musician Jonathan Visger, and he seems to be a relatively talented artist. However, this album is as good as electric pop albums can be. It has some good standouts that I can bounce my foot along to but nothing that made me think. I don’t think this is on the album itself and I believe that some people may love this type of music, personally not for me. What this album did do well was that it had a dreamy nostalgic sound, and is a very easy listen which I can see myself studying or working too.",
         songs: "1. Dissolve\n 2. 2.	Done with Love (feat. Herizen)\n 3. Lemon Drop",
-        rating: "6/10"
+        rating: "5/10"
     },
     {
         day: 3,
