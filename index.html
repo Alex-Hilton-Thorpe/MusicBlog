@@ -1,0 +1,48 @@
+<!-- The main wrapper for the entire page that sets the language to English -->
+<html lang="en">
+
+<!-- The head section holds background settings you do not see on the screen -->
+<head>
+    <!-- Allows the browser to display special characters and emojis correctly -->
+    <meta charset="UTF-8">
+    
+    <!-- Makes sure the website shrinks or grows to fit phone screens and computer monitors -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- The name that shows up on the actual tab at the very top of your web browser -->
+    <title>May Music Journey</title>
+
+    <!-- This link tells the HTML file to look for the styles.css file and apply its rules -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<!-- The body section holds everything that is actually visible on the website -->
+<body>
+    
+    <!-- Groups the introductory stuff at the top, like your main title -->
+    <header>
+        <!-- The main heading of the page. Usually the biggest text -->
+        <h1>The May Album Challenge</h1>
+        
+        <!-- A regular paragraph of text -->
+        <p>A new album every day for the month of May.</p>
+    </header>
+
+    <!-- Holds the main, unique content of your web page -->
+    <main>
+        <!-- A slightly smaller sub-heading for a new section -->
+        <h2>The Calendar</h2>
+        <h3>May 2026</h3>
+
+        <!-- We leave this div empty. JavaScript will find this ID and fill it with cards -->
+        <div id="calendar-grid" class="calendar-grid"></div>
+
+        <!-- Another regular paragraph of text acting as a placeholder -->
+        <p>Album cards coming soon...</p>
+    </main>
+
+    <!-- This line connects your JavaScript file. Put it at the very bottom of the body -->
+    <script src="script.js"></script>
+
+</body>
+</html>

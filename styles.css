@@ -1,0 +1,58 @@
+body {
+    /* Sets the background color of the entire website to a very light, off-white grey */
+    background-color: #00010a;
+    
+    /* Changes the font. It tells the browser "Use Arial. If you do not have Arial, use any basic sans-serif font you have." */
+    font-family: Arial, sans-serif;
+    
+    /* Changes the actual text color to a dark charcoal grey (#333) instead of pure harsh black. It is much easier on the eyes! */
+    color: #aca6a6;
+}
+
+header {
+    /* Pushes all the text inside your header perfectly to the middle of the screen */
+    text-align: center;
+    
+    /* Padding is breathing room! It adds 20 pixels of invisible empty space inside the header so your text is not crammed against the edges */
+    padding: 20px;
+}
+
+/* This targets the container */
+.calendar-grid {
+    display: grid;
+    /* This tells the grid to make columns that are at least 200px wide */
+    /* 'auto-fill' will fit as many as possible based on your screen size */
+    grid-template-columns: repeat(7 , 1fr); /* This creates 7 equal columns, perfect for a week-based calendar */
+    gap: 5px; /* This creates the "gutters" or space between the cards */
+    padding: 20px;
+}
+
+/* This makes sure the grid looks good on phones too */
+@media (max-width: 800px) {
+    .calendar-grid {
+        grid-template-columns: repeat(2, 1fr); /* Only 2 columns on small screens */
+    }
+}
+
+/* This targets the individual cards */
+.album-card {
+    background-color: #2a2a2a; /* A slightly lighter grey than the background */
+    border: 1px solid #444;
+    border-radius: 8px; /* Gives the corners a nice rounded look */
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s; /* Adds a smooth feel when we hover */
+}
+
+/* A little extra flair: makes the card pop when you hover over it */
+.album-card:hover {
+    transform: scale(1.05);
+    border-color: #f8f7f7;
+}
+
+.day-number {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #888;
+    margin-bottom: 10px;
+}
