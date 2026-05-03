@@ -20,7 +20,7 @@ const albums = [
     },
     {
         day: 3,
-        title: "Kiss all the time",
+        title: "Kiss all the time. Disco, Occasionally",
         artist: "Harry Styles",
         image: "katt.jpg",
         review: "To be decided",
