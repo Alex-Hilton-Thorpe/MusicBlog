@@ -15,7 +15,7 @@ const albums = [
         artist: "Absofacto",
         image: "cocoon.jpg",
         review: "Absofacto is a solo project by musician Jonathan Visger, and he seems to be a relatively talented artist. However, this album is as good as electric pop albums can be. It has some good standouts that I can bounce my foot along to but nothing that made me think. I don’t think this is on the album itself and I believe that some people may love this type of music, personally not for me. What this album did do well was that it had a dreamy nostalgic sound, and is a very easy listen which I can see myself studying or working too.",
-        songs: "1. Dissolve\n 2. 2.	Done with Love (feat. Herizen)\n 3. Lemon Drop",
+        songs: "1. Dissolve\n 2. Done with Love (feat. Herizen)\n 3. Lemon Drop",
         rating: "5/10"
     },
     {
@@ -23,9 +23,9 @@ const albums = [
         title: "Kiss all the time. Disco, Occasionally",
         artist: "Harry Styles",
         image: "katt.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "This is singer songwriter Harry Styles’ 4th studio album. This album can be defined as a dance-pop album influenced by electronic music, with Styles himself saying this album was inspired by LCD SoundSystem. There are some very good highs on the album with unique sounds which I loved, however for the most part this album felt quite derivative and could be placed in most pop albums and I wouldn’t be surprised. Overall, this album is exactly what I thought it would be, I didn’t feel moved by the album and pretty much what I would expect from a Harry Styles album.",
+        songs: "1. Season 2 Weight loss\n 2. Ready,Steady,Go!\n 3. Pop",
+        rating: "6/10"
     },
     {
         day: 4,
