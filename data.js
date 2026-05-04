@@ -32,9 +32,9 @@ const albums = [
         title: "Back to Black",
         artist: "Amy Winehouse",
         image: "btb.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Amy Jade Winehouse was a British artist in the 2000s. She grew up in a Jazz-influenced household, and this is evident in this album, where she has skilfully utilized this jazz sound to make an amazing pop album. This was her 2nd and final album as her life was tragically cut short, and being only 23 when this album was made, she shows such a great maturity in her voice and lyrics. This album tackles the ideas of heartbreak and guilt from ex-relationships. I felt drawn to this album from the first song and had such an amazing time listening to it. I couldn’t recommend this album more. In my opinion this is the greatest pop album made of all time, and the only way it could be better is if it was longer. ",
+        songs: "1. Rehab\n 2. Back to Black\n 3. Wake Up Alone",
+        rating: "8.5/10"
     },
     {
         day: 5,
