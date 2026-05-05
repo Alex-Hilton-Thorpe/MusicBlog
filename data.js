@@ -41,9 +41,9 @@ const albums = [
         title: "The Stone Roses",
         artist: "The Stone Roses",
         image: "stone-roses.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "English band from Manchester in the 80s and 90s. Categorized as an indie rock group and is the figurehead and pioneers of the Madchester Scene. They are also the band who inspired a young Liam and Noel Gallager to start the famous Manchester group Oasis. The album is interesting and I felt it is a well put together album that has very good production and instrumentals. However, I didn’t get the spark from them.  Overall, I didn’t dislike the album it was good just not the next level that I love.",
+        songs: "1. I Wanna Be Adored\n 2. Elephant Stone\n 3. I am the Resurrection",
+        rating: "7/10"
     },
     {
         day: 6,
