@@ -59,9 +59,9 @@ const albums = [
         title: "Hot Rats",
         artist: "Frank Zappa",
         image: "hotrats.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Frank is an American musician, composer and bandleader from Baltimore USA. He is known for his electric guitar work and mix of Jazz, rock and classical music. This album was definitely that, his guitar solos where something to behold and the jazz influence was extremely apparent with the beautiful induction saxaphone and trumpet solos. I consider this album to be mainly instrumentals with a few lyrics in Willie the Pimp. Overall Frank comes across as an extremely talented musician and composer who I believe is one of the most talented I have heard in a long time. Each song feels like a beautiful journey through jazz and rock. I loved this album and I thought I wouldn't get a better Jazz album after Back to Black but I have been pleasantly surprised.",
+        songs: "1. Willie The Pimp\n 2. The Gumbo Variations\n 3. Son Of Mr. Green Genes",
+        rating: "9/10"
     },
     {
         day: 8,
