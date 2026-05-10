@@ -77,9 +77,9 @@ const albums = [
         title: "People who aren't there anymore",
         artist: "Future Islands",
         image: "people-arent-there-anymore.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Future Islands is an American pop-synth group from Baltimore USA, Go Ravens! I don’t have a lot to say about this album, the group genre pretty much sums up the album, I didn’t pick up on core themes throughout the album and the end of the day it felt quite monothematic. The only thing that I did remember from the album is that one song from fc25. This wasn’t a bad album by any metric, but it also didn’t carry any weight in my head, I felt every song felt sonically similar to one another. To be fair to the group they have found a sound that works and I enjoyed listening to it, I just didn’t get a spark. One thing to note is that the final song on the album shows a lot of potential in the band, I felt that if they mature a bit on that song they could produce a very good album, it played on a nostalgic feeling which I very much enjoyed.",
+        songs: "1. King of Sweden\n 2. The Garden Wheel\n 3. The Tower",
+        rating: "6.5/10"
     },
     {
         day: 10,
