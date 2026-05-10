@@ -86,9 +86,9 @@ const albums = [
         title: "My Head is an Animal",
         artist: "Of Monsters and Men",
         image: "mhiaa.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Of Monsters and Men is an indie folk or rock band from Iceland. They formed in 2010 making them a relatively newer band, My Head is an Animal was their opening album and was released in 2011. The band consists of 3 main members, with the lead singer Nanna being an incredible singer and I have enjoyed her voice a lot. On doing some background research I found that this album is centred on the themes of nature, mythical Storytelling and emotional introspection. After listening through this album, I can say that it doesn’t disappoint and meets the themes. Overall, a very enjoyable album. I loved the voice of the female singer she honestly rounded out the entire album for me. I also really enjoyed the use of the acoustic guitar and the drums, they really made the album feel like a journey through nature. I can see myself listening to this album on a long drive through the countryside.",
+        songs: "1. Dirty Paws\n 2. Your Bones\n 3. Little Talks",
+        rating: "7.5/10"
     },
     {
         day: 11,
