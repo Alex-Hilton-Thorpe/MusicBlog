@@ -95,9 +95,9 @@ const albums = [
         title: "Punk Tactics",
         artist: "Joey Valence & Brae",
         image: "pt.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Pennsylvania hip-hop duo, Joeseph Bertolino (Joey Valence) and Braedan Lugue (Brae) met when they both attended Pennsylvania State University, where Joey studied Telecommunications and Bare studied Health Policy and Administration. Safe to say they have moved onto something beyond what they were studying. Punk Tactics was their first album, being released in 2023. They gained traction through social media which their seventh single “Punk Tactics” went viral. The album screams influence from 90s hip-hop, particularly the Beastie Boys. I enjoyed this album, I wouldn’t say it wowed me however it provided what it promised, a boom bap album. I was drawn by who the members were and what they have done, however the album feels like a young adult made it and didn’t have much maturity. I think if I was a few years younger this album would have been one of my favorites, but it just doesn’t hit the same.",
+        songs: "1. PUNK TACTICS\n 2. KILL BILL\n 3. STREET PIZZA",
+        rating: "5.5/10"
     },
     {
         day: 12,
