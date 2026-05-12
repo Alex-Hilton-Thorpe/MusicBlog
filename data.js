@@ -104,9 +104,9 @@ const albums = [
         title: "Led Zeppelin III",
         artist: "Led Zeppelin",
         image: "LZ3.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Here we finally are. The myths, the legends, Led Zeppelin. The English band has four key members; Robert Plant (vocals), Jimmy Page (My GOAT and guitarist), John Bonham (Drums), and John Paul Jones (Bass). I recently got back into listening to Led Zeppelin after reading the story about how Bonham OD’d and how the band unanimously agreed to not make music together anymore. So naturally I felt I had to include them into this month and deciding which album was a bit weird as I have listened to most, so I landed on Led Zeppelin III. This album is alright, however the guitar work by Page is just phenomenal, he will forever be one of my favorite artists. I remember listening to Stairway to Heaven for the first time as a kid and being amazed by Page’s riff, then comparing it to my dad trying to play that same riff and it just not hitting the same. Now with the discussion of Page out the way, I didn’t get that same feeling from this album that I did from the other Led Zeppelin albums I have listened to. Don’t get me mistaken I think this album is still good just not great. I think they were trying something in this album by moving towards a slightly more acoustic and folky sound, which to be honest doesn’t make sense when you are the greatest rock band of all time (Definitely can’t be contended ;) ).",
+        songs: "1. Immigrant Song\n 2. Celebration Day\n 3. Bron-Y-Aur Stomp",
+        rating: "7.5/10"
     },
     {
         day: 13,
