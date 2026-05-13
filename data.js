@@ -113,9 +113,9 @@ const albums = [
         title: "Around the fur",
         artist: "Deftones",
         image: "atf.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Deftones is an American band from California, made up of 4 members; Stephen Carbenter (Haha kinda like Sabrina), Abe Cunningham, Chino Moreno, and Frank Delgado. Before I listened to this album, I expected this band to be more indie or classical rock, however this would be classified as alternative metal. I would say this was an interesting surprise to say the least. When I listened to this album, I was filled with intense existential angst to say the least, which at first made me feel very uncomfortable, however as I continued to listen to Around the fur, I realized this is exactly the point. Once I had come to this conclusion, I began to enjoy this album thoroughly. I do not know a lot about this genre of music, but this was honestly a superb head banging album, where every song made me bounce. The only gripe I had with this album was the 20-minute wait for the rest of the song in MX, which honestly was a good song. Overall, I wouldn’t recommend this album to many people, but I want to explore this genre a bit more – so if you have any recommendations, please share.",
+        songs: "1. My Own Summer (Shove It) \n 2. Be Quiet and Drive (Far Away) \n 2. Around the Fur",
+        rating: "7.5/10"
     },
     {
         day: 14,
