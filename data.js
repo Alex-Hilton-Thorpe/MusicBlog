@@ -131,9 +131,9 @@ const albums = [
         title: "Blonde on Blonde",
         artist: "Bob Dylan",
         image: "bob.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Everyone’s favourite day of the week, Friday. You know what that means? That’s right BOB DYLAN FRIDAYYYYYYYY. Before I started my May journey I thought of Dylan as just a country artist with not much behind the music and only having one good song; “Knocking on Heavens Door”. I am glad to be so disappointed with this.  I want to open this review with a little fact about Dylan, he was the first song writer to ever win a Nobel prize in Literature, back in 2016, for creating new poetic expressions within music. This album today, Blonde on Blonde, carries this lyrical genius. Being his seventh studio album he didn’t upset. Doing some background research into this album I was told it was the end of his Rock trilogy with Bringing It All Back Home (next weeks album, stay tuned) and Highway 61 revisited. However, I didn’t pick up on this rock sound as much, I thought it was very country and blues-esque with his iconic harmonica, that being said I am no expert when it comes to identifying genres so I could be wrong. I really am falling in love with Dylan, from his amazing guitar playing, beautiful harmonica tones and his standout lyrics, with this album being a spotlight in his genius. My personal choice of song from this album is Visions of Johanna, interesting thing about this song was that Dylan reportedly recorded take after take trying to find the exact atmosphere and this nearly drove everyone mad.",
+        songs: "1. Visions of Johanna\n 2. Just Like a Woman\n 3. I Want You",
+        rating: "8/10"
     },
     {
         day: 16,
