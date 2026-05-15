@@ -122,9 +122,9 @@ const albums = [
         title: "Carrie & Lowell",
         artist: "Sufjan Stevens",
         image: "cal.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Sufjan pronounced “SOOF-yahn” is an American artist from Detroit. This is where he made his debut in 2000 where he released his album A Sun Came and then later releasing Carrie & Lowell in 2015 which is his most critically acclaimed album alongside Illinois. Listening to this album (Carrie & Lowell), which is my first Stevens album reminded me so much of one of my favourite artists Bon Iver. Stevens is considered Indie Folk, often talking on themes of religion, spirituality and faith, and this album was no exception. I find it very interesting that he discusses Christianity a lot considering he is a part of the LGBTQIA+ community, however I found that this only added to the sound of the album. Going back to the album I thought it was often inspired and grounding, it had gorgeous instrumentals and lyrics which really tied the album together in a  beautiful spiritual journey touching on themes of mental illness and raw loss.",
+        songs: "1. Fourth of July\n 2. John My Beloved\n 3. All of Me Wants All of You",
+        rating: "8/10"
     },
     {
         day: 15,
