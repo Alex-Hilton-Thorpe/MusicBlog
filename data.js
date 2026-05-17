@@ -140,9 +140,9 @@ const albums = [
         title: "The Rhythm of the Saints",
         artist: "Paul Simon",
         image: "ros.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Paul Simon, the genius behind Simon and Garfunkel, is an American singer, songwriter and guitarist. He came into fame in the 60s with Garfunkel, making hits such as Ceclia and a personal favourite in Bridge over Troubled Water. However, the duo broke up in 1970 due to tensions caused by Art Garfunkel’s acting career, as Simon was left in the studio alone waiting. Simon then went on to his own solo career, even making a debut in acting himself in Annie Hall by Woody Allen. He released a total of 7 albums before making The Rhythm of the Saints in 1990. This album was inspired by Brazilian music tradition, which when listening to this album you can very much hear this. This is a very calming album, which on the first few listens I was quite bored. However, after a few listens and getting more comfortable with this album I have grown to enjoy it. I think this is a long was from his days apart of Simon and Garfunkel, but I appreciate his use of traditional styles from Brazil.",
+        songs: "1. The Obvious Child\n 2. The Coast\n 3. Born at the Right Time (acoustic version)",
+        rating: "6.5/10"
     },
     {
         day: 17,
