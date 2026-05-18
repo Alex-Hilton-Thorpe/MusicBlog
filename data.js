@@ -149,9 +149,9 @@ const albums = [
         title: "Follow the leader",
         artist: "Korn",
         image: "ftl.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "This album is the third album by nu metal band Korn. Korn started in 1993 and are still together in 2026, they are from California and are relatively popular with 14 million monthly listeners on Spotify. They were one of the accidental creators of the genre nu metal, with their hip hop grooves, and down tuned guitars much the same as metal. Now Follow the Leader is a rather interesting album, if I am being honest, I didn’t enjoy it thoroughly, but I feel that it could be a guilty pleasure album, much the same as I have with Slipknot. This album’s themes I found were centred on Childhood Trauma, with songs like Children of the Korn and All in the Family, and the album cover (Which I really love) being good representations of this. Overall, this album feels like a performance in rage, self-loathing and Isolation, but done poorly. I felt like they tried too hard to convey this rage and it just wasn’t for me. I really thought I would enjoy this album as I love Slipknot and enjoyed Deftones, but I didn’t like the hip hop/metal mix, it just doesn’t make sense to me, so for the first time I am only putting a song.",
+        songs: "1. Children of the Korn",
+        rating: "4.5/10"
     },
     {
         day: 18,
