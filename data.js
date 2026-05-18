@@ -158,9 +158,9 @@ const albums = [
         title: "This is Happening",
         artist: "LCD Soundsystem",
         image: "tih.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "I have been excited for this one, LCD Soundsystem is an American dance-punk revival bank from New York and made their debut in 2002. The main founder, James Murphy is the lead pianist and frontman, as well as the primary creative force. I wasn’t sure what to say to start this review so I asked an AI bot to give me something to start with, and to summarize this is what it gave me: The feeling from LCD Soundsystem is it stands as a dance-punk revival band; but consistently side eyes itself, as if embarrassed by the fact that it wants to be meaningful, and: Like a groove is happening but there is the weird guy in the corner having an existential crisis. Which I read these before listening to the album and I must say after listening, I feel like these are oddly true. I really enjoyed this album, I thought a lot of the grooves were very enjoyable and made me want to move.",
+        songs: "1. Dance Yrself Clean\n 2. I Can Change\n 3. Home",
+        rating: "8/10"
     },
     {
         day: 19,
