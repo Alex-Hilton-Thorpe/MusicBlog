@@ -167,9 +167,9 @@ const albums = [
         title: "Manning Fireworks",
         artist: "MJ Lenderman",
         image: "mf.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Mark Jacob “MJ” Lenderman is a 27-year-old American music artist from North Carolina. His music can be described as indie rock and alt country. He has released 5 albums with his most recent being released in 2024; Manning Fireworks. This is today’s album, and I had a blast listening to it. He has some beautifully strange lyrics, and I found him talking a lot about his Catholic roots and the guilt he feels about growing up and becoming an adult who indulges in sin. I also felt he used this background in going to church as the backbone to a lot of the instrumentals he used as it had a very similar sound to gospels I grew up with myself. He also had amazing instrumentals, particularly; On My Knees, which I found the crescendo at the end to be just brilliant, and it was at this song and this part of the song that I decided my rating, I was waiting for something to standout and scream at me this month which would be deserving of the rating and I found this drew me in completely. He brilliantly used pop cultural figures throughout the album such as Lightning McQueen, Eric Clapton, and John Travolta, even the name of the album is a nod to Peyton Manning himself. I believe he used these figures as emotional landmarks, to ground the stories into real emotions that we can relate to. ",
+        songs: "1. On My Knees\n 2. Wristwatch\n 3. You Don't Know The Shape I'm In",
+        rating: "10/10"
     },
     {
         day: 20,
