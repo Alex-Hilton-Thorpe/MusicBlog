@@ -176,9 +176,9 @@ const albums = [
         title: "Hot Buttered Soul",
         artist: "Isaac Hayes",
         image: "hbs.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "OoOhhhh I feel buttered up! Hayes is an American Southern Soul artist who died in 2008 at 65 years young. He is well known for writing the score for the 1971 film Shaft, and then also his album Hot Buttered Sould in 1969 which is the album for this review. Hayes starts this album with a reinterpretation on “Walk On By” by Dionne Warwick, which to be honest I prefer the original. This album has only 4 songs, but they are all quite long. As a soul album goes this is pretty standard, he discusses themes of romance, seduction, etc from a swaggery standpoint. This album didn’t change the way I listen to soul it was as you would expect and I mean I enjoyed it and I think the rating is a good reflection of how I felt. It does the job, I can’t say I didn’t enjoy it, but I also can’t say it was revolutionary. I think a lot of what this album did was derivative of what other artists in the day were doing such as Otis Redding. ",
+        songs: "1. Walk On By\n 2. Hyperbolicsyllabicsesquedalymistic\n 3. One Woman",
+        rating: "6/10"
     },
     {
         day: 21,
