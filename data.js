@@ -185,9 +185,9 @@ const albums = [
         title: "Jikan",
         artist: "betcover!!",
         image: "jikan.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Betcover is a band from Tokyo, Japan and consists of 5 members. They started making music in 2015 and the name of the band originates from the word bedcover, where the founder Yanase misspelt it in high school. The name of the album “Jikan”, means time in English which is quite cool. To be honest with this album I didn’t understand anything they said, but in my opinion that only added to the instrumentals, as the lyrics didn’t draw away from their phenomenal instrumentals. I had to search what the themes of the album were as I am not sure what lyrics were used. However, I made some assumptions on themes before that, I thought the album gave a very depressive theme, giving the feeling of being alone in a very busy area. It was almost robotic and cold in sound, which is almost a depressive feeling. After searching the themes are; “Loneliness, urban weariness, existential isolation and the passage of time”. Now looking back, I think the name of the album (Which I only found out after this) makes sense for that, I think some of the songs that robotic feeling I was talking about could be tied towards that ticking time. I really do think this may be the best instrumentals album I have heard this month so far and I think my rating reflect those feelings.",
+        songs: "Look at playlist for songs, can't type those names lol",
+        rating: "9/10"
     },
     {
         day: 22,
