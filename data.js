@@ -194,9 +194,9 @@ const albums = [
         title: "Bringing it all back home",
         artist: "Bob Dylan",
         image: "bitlh.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Robert Allen Zimmerman Friday Everyone!!!! The album today is a bit of a treat, with the album sitting at No. 6 on Billboard’s Pop albums chart way back in 1965. It is easy to see why when you listen to Bringing It All Back Home. I would classify this album as a Folky Bluesy rock album with lyrics which you would expect from Dylan. This was the first album on the Bob Dylan “Rock Trilogy” as discussed in the Blonde on Blonde review. I would say this album has the best song I have heard so far in this trilogy in Subterranean Homesick Blues, narrowly beating out From a Buick 6. Overall, the guitar from this album was good, the harmonica is always one of my favourite parts of his albums and the lyrics are good. The songs which I have singled out from this album all had unique sounds, and I believe this with most of Dylans songs but when listening to these albums the influence he has on modern music is undeniable. As I said last week, I am so glad to have started listening to Dylan, I really do appreciate his music.",
+        songs: "1. Subterranean Homesick Blues\n 2. Mr. Tambourine Man\n 3. Maggie's Farm",
+        rating: "8.5/10"
     },
     {
         day: 23,
