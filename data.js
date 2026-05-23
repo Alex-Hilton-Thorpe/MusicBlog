@@ -203,9 +203,9 @@ const albums = [
         title: "Chocolate Starfish and the Hotdog Flavored Water",
         artist: "Limp Bizkit",
         image: "cat.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Oh my god, this album! I am honestly just so impressed, it was such a unique album with very interesting lyrics. Honestly, I didn’t think I would ever get blessed to finish an album. This was probably one of the worst albums I have ever listened to. I didn’t even give it a full second listen. I can’t even say this album is derivative because no one else would be as dumb to make an album like this. The lyrics where just so weird, and when I say interesting, I mean it in the worst way possible. I just can’t see how someone could choose to listen to some of these songs more than once. I am so amazed at how this band, whose members can play instruments btw, choose to make such a bland album where I could not differentiate from one song to the other. I read a review for this album after writing all the above and listening and it said the only good thing to come out of this album was when he mentioned the band to his gran she offered him a biscuit. I think this would be true and wish I had a biscuit to help me get through this slop. It felt like scrolling no stop for an HOUR AND 14 MINUTES of AI slop. At this point I don’t even think this was a review as much as just a rant about how much I hated this album. I am not putting a single song here and the rating is being kind. Again, I have no clue how 23 million people choose to listen to this every month. I am not a big fan of rock rap bands, but at least they would have like one song I can stand, and I am not bleeding from my ears, but LB is the worst thing I have ever subjected myself too, and I studied engineering. Then finally to end off just looking at pictures of the band they try to look “hard” but to be honest they just look like that weird kid in school no one wants to be friends with. ",
+        songs: "Don't even have a song to put here. I have removed this album from my library may god have mercy on my soul",
+        rating: "1.5/10"
     },
     {
         day: 24,
