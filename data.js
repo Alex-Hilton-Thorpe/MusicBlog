@@ -212,9 +212,9 @@ const albums = [
         title: "Purple",
         artist: "Stone Temple Pilots",
         image: "purple.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "STP are an American grunge band from San Diego, California. The band draws heavy influence from iconic bands such as Led Zeppelin and Black Sabbath, and when you listen you can hear this. The band got their name after a few different variants but settled on Stone Temple Pilots because the abbreviation “STP” is the same as the American brand of automotive aftermarket products, which to be honest I don’t get why you would want that lmao. The grammy winning band released their album “Purple” in 1994, and it is a decent album. It scratches that itch if you are in the mood for grunge, but I didn’t find it brought anything unique to the table. There are some bangers on this album though, from “Vasoline” and “Interstate Love Song” at the beginning to “Big Empty” towards the end. Overall, this album was enjoyable and I would maybe revisit, but I do think if I really wanted to listen to a grunge artist I would rather just listen to Nirvana. I think the instrumentals in the album were pretty good however I wasn’t moved by the singer. However, I think if I gave this album a few more listens, I think my rating might increase slightly and my appreciation might grow. ",
+        songs: "1. Vasoline\n 2. Interstate Love Song\n 3. Big Empty",
+        rating: "7/10"
     },
     {
         day: 25,
