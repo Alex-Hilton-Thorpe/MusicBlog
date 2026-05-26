@@ -222,7 +222,7 @@ const albums = [
         artist: "Catfish and the Bottlemen",
         image: "tr.jpg",
         review: "Catfish and the Bottlemen might be the coolest band name I have had so far this month. They are a British indie rock band from Wales, consisting of 2 core members. The vocalist and guitarist; Van McCann and then the bassist Benji Blakeway. They debut in 2014 with the album The Balcony, which peaked at number 10 on the UK Albums Chart, which in of itself is impressive. However, the album today “The Ride” peaked at number 1 on the charts. Characterised by their energetic guitar and fun melodies, this album was a joy to listen to. I wouldn’t say their lyrics where anything outstanding, but I very much enjoyed their instrumentals. The album has been met with very mixed reviews, and I think if you go to the Catfish and the Bottlemen for a standout indie rock album you would be disappointed, however I felt that this was fun and an easy listen. I would compare them to Oasis (Interestingly the producer on this album is the same producer Oasis had), where it isn’t critically acclaimed music but for those who listen to them, they seem to enjoy them. I would consider myself one of those listeners.",
-        songs: "1. 7\n 2. Soundcheck\n 3. Anything",
+        songs: "1. 7\n 2. Soundcheck\n 3. Red",
         rating: "6.5/10"
     },
     {
