@@ -230,9 +230,9 @@ const albums = [
         title: "You'd prefer an Astronaut",
         artist: "Hum",
         image: "ypaa.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Hum is an Illinois (Like Kanye) alt rock band, with 4 core members. They debut way back in 1989 and released the album today “You’d Prefer An Astronaut” in 1995. It is a weird album to review, because it had some amazingly beautiful melodies and then some mind-blowing distortions within the same song.  I have found it hard to give a rating to the album and even choose a song as I found that every song fit perfectly into the next. I enjoyed the shoegaze feel of this album; it had some unique sounds. I think this uniqueness is part of the reason I enjoyed this album; I don’t enjoy derivative music. I found the singers voice and lyrics calming, I wish I had more time to go through this album more as I feel like there is so much to the album that I need to explore. I felt as though at it’s core this album was grounded in human emotions and the waves in which we feel them, from good happy melodies to grungy distorted confusion. I feel as though the name of the album ties into the idea that we would rather be out of body away from our problems up in space; but we need to learn how to come to terms with the things we need to deal with.",
+        songs: "1. Stars\n 2. Why I like the Robins\n 3. I Hate it too",
+        rating: "8.5/10"
     },
     {
         day: 27,
