@@ -248,9 +248,9 @@ const albums = [
         title: "Heavy Metal",
         artist: "Cameron Winter",
         image: "hm.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "The first time I had heard of Cameron Winter was when I listened to Geese for the first time, which I enjoyed but it wasn’t something that I felt I could listen to a lot. This album has changed that for me; I really enjoyed it and can’t wait for his next solo project. It had some really unique instrumentals with some absolutely amazing lyrics. More on that now, but first some background on Winter. He grew up in Brooklyn, New York (Go Bills, Go Knicks (I know not from Brooklyn, but who cares), Go Yankees) to two Jewish parents. He played hockey as a youth and had to give it up due to concussions which is sad, however this was when he turned to music. Now back to “Heavy Metal”; he reportedly recorded some of the album in the backseat of a taxi, which in my opinion is so cool. I really do love this type of music; just some dude with zero singing talent making the most gorgeous instrumentals with some of the best dare I say poetry in the modern world. He utilizes all sorts of instruments from guitar to piano and drums along with a bunch of others, which he co-produced with musician Loren Humphrey. I felt at its core this album was a deep search for human connection and trying to understand the variety of different people in this world, as well as just talking about some of Winters deep feelings on things like music, religion and some existential dread. I think he does well to show these themes by using the instruments to their full potential and in connection to his lyrics, I didn’t feel as though he was trying to push anything and just did what came naturally to him. Btw don’t ask me to choose between this and Manning Fireworks.",
+        songs: "1. The Rolling Stones\n 2. Drinking Age\n 3. Try as I may",
+        rating: "10/10"
     },
     {
         day: 29,
