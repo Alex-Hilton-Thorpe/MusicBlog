@@ -257,9 +257,9 @@ const albums = [
         title: "Rough and Rowdy Ways",
         artist: "Bob Dylan",
         image: "raw.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "The final Bob Dylan Friday, and it is late. I have learnt so much about Dylan throughout this month and he has turned into one of my favourite music artists of all time. For me he has one of the most unique sounds in music and a pioneer in terms of a bluesy rock. His early albums were all great and the albums which I have listened to through this month have been his most critically acclaimed album, this final album; “Rough and Rowdy Ways” is a far later album, being released in 2020 and it didn’t receive as much attention as his earlier music. Even receiving very little critical acclaim, I however think it should have gotten a lot more attention. I am not sure exactly what it is, but I really enjoyed this album and personally enjoyed this album the most or at least very similar to “Blood on the Tracks”. He holds such a wise sound in this album, I am sure this is due to his aged voice. I really loved the slower pace of this album, with him enjoying each song. He took his time with each song and did what he needed to do, his lyrics were perhaps his best so far which I know is saying a lot. He speaks a lot about history, the power of art, morality and aging, which is his own reflections of his own life.  The guitar work was some of my favourite from all his albums and his classical harmonica still plays in the background, creating one of his best melodic sounds so far. Would very much recommend this album to anyone that loves Dylan.",
+        songs: "1. Black Rider\n 2. Mother Of Muses\n 3. 3.	Key West (Philosopher Pirate)",
+        rating: "9/10"
     },
     {
         day: 30,
