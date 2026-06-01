@@ -266,9 +266,9 @@ const albums = [
         title: "Liquid Swords",
         artist: "GZA",
         image: "ls.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Gary Eldridge Grice was a founding member of New York based group Wu-Tang Clan, whom I love. He is better known as GZA and made his solo debut with “Liquid Swords” which is todays album. I don’t have much to talk about today’s album, I felt as though the album blended great lyrics and classical East Coast beats (Produced by RZA, who in his own right is a great artist), and mirrors the likes of Wu-Tang Clan, Nas, Jay-Z, and I found the concept of the album very similar to King Geedorah (MF DOOM). He makes references to chess, crime and philosophy with the curtain of a samurai story. The entire feel of the album was like a comic book, and I just love this sort of take on Hip-Hop. He is truly deserving of his title “Genius”.",
+        songs: "1. Liquid Swords\n 2. Living in the World Today\n 3. Shadowboxin'",
+        rating: "8/10"
     },
     {
         day: 31,
