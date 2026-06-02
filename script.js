@@ -21,30 +21,61 @@ import { albums } from './data.js';
 //     grid.appendChild(card);
 // } 
 
-/* Get the empty grid in HTML using its ID */
-const grid = document.getElementById('calendar-grid');
+document.addEventListener('DOMContentLoaded', () => {
+    /* Get the empty grid in HTML using its ID */
+    const grid = document.getElementById('calendar-grid');
 
-/* Instead of counting we go through each album in the albums array */
+    /* Instead of counting we go through each album in the albums array */
+    albums.forEach(album => {
+        /* create a new element for the album card */
+        const card = document.createElement('article');
 
-albums.forEach(album => {
-    /* create a new element for the album card */
-    const card = document.createElement('article');
+        /* add the class "album-card" to the card */
+        card.classList.add('album-card');
 
-    /* add the class "album-card" to the card */
-    card.classList.add('album-card');
+        /* use album.title, album.artist, etc for specific data */
 
-    /* use album.title, album.artist, etc for specific data */
+        /* We wrap the content in a link that sends the 'day' number to review.html */
+        card.innerHTML = `
+            <a href="review.html?id=${album.day}" class="class-link"> 
+                <div class = "day-number">May ${album.day}</div>
+                <img src = "${album.image}" alt = "${album.title} album cover" class = "album-art">
+                <h3>${album.title}</h3>
+                <p>${album.artist}</p>
+            </a>
+        `;
+        /* Put finished card onto grid */
+        grid.appendChild(card);
+    }); 
 
-    /* We wrap the content in a link that sends the 'day' number to review.html */
+    const albumList = document.getElementById('album-list');
 
-      card.innerHTML = `
-          <a href="review.html?id=${album.day}" class="class-link"> 
-        <div class = "day-number">May ${album.day}</div>
-        <img src = "${album.image}" alt = "${album.title} album cover" class = "album-art">
-        <h3>${album.title}</h3>
-        <p>${album.artist}</p>
-        </a>
-    `;
-    /* Put finished card onto grid */
-    grid.appendChild(card);
-}); 
+    const sortedAlbums = albums.sort((a, b) => {
+        const ratingA = parseFloat(a.rating.split('/')[0]);
+        const ratingB = parseFloat(b.rating.split('/')[0]);
+        return ratingB - ratingA;
+    });
+
+    sortedAlbums.forEach(album => {
+        const albumItem = document.createElement('li');
+
+        const albumTitle = document.createElement('span');
+        albumTitle.textContent = album.title;
+
+        const albumArtist = document.createElement('span');
+        albumArtist.textContent = album.artist;
+
+        const albumRating = document.createElement('span');
+        albumRating.textContent = album.rating;
+
+        const albumArt = document.createElement('img');
+        albumArt.src = album.image;
+        albumArt.alt = `${album.title} cover`;
+
+        albumItem.appendChild(albumTitle);
+        albumItem.appendChild(albumArtist);
+        albumItem.appendChild(albumRating);
+        albumItem.appendChild(albumArt);
+        albumList.appendChild(albumItem);
+    });
+});

@@ -275,9 +275,9 @@ const albums = [
         title: "Some Rap Songs",
         artist: "Earl Sweatshirt",
         image: "srs.jpg",
-        review: "To be decided",
-        songs: "To be decided",
-        rating: "To be decided"
+        review: "Thebe Neruda Kgositsile or Sly Tendencies and later Earl Sweatshirt (When he joined Odd Future) is an American rapper and producer. He made his debut with a mixtape when he was 16 in 2010, releasing Earl.  He has peaked within the top 5 of Billboards top 200 with his first full album “Doris” in 2013. He has a very unique style which is very reminiscent of the artists from the early 2010s, and he is known for his lyricism which he learned from his South African poet father. His most critically acclaimed album is “Some Rap Songs” which is the topic of todays review. Overall, this is a short punchy album, with a lot of abstract, experimental and glitchy production. I really enjoyed the glitchy melodies in this album, which usually I find very off putting but he has made it work here. His lyricism is strikingly poetic, often coming across like Slam Poetry. He speaks on topics such as mental health, family and personal healing. I really enjoyed his song Playing Possum, which is an interlude of his parents talking. I haven’t put it as one of my favourite songs since it isn’t a song, but I felt I should mention how I enjoyed listening to them talking. Overall, I felt this album was relatively good, I thought that it wasn’t fully fleshed out and he could improve on some more melodies, he had great production, but we need something between.",
+        songs: "1. Shattered Dreams\n 2. Riot!\n 3. Azucar",
+        rating: "7/10"
     }
 
 ];

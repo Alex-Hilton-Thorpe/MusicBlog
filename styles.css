@@ -144,3 +144,45 @@ a:hover {
 .fav-songs{
    white-space: pre-line; /* This allows the newline characters in the songs string to create actual line breaks in the display */
 }
+
+/* Styles for the album list */
+#album-list {
+    list-style-type: none; /* This removes the bullet points */
+    padding: 0;
+    counter-reset: album-counter; /* This is for numbering the list */
+}
+
+#album-list li {
+    display: flex; /* This is key for the table-like layout */
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+
+/* This adds the countdown number */
+#album-list li::before {
+    content: counter(album-counter);
+    counter-increment: album-counter;
+    margin-right: 15px;
+    font-weight: bold;
+    min-width: 20px; /* Ensures numbers align nicely */
+}
+
+/* Style for each piece of info in the list item */
+#album-list li > * {
+    padding: 0 10px;
+}
+
+/* Give specific widths to the text columns */
+#album-list li span:nth-of-type(1) { flex: 3; } /* Title */
+#album-list li span:nth-of-type(2) { flex: 2; } /* Artist */
+#album-list li span:nth-of-type(3) { flex: 1; } /* Rating */
+
+
+/* Specifically target the image to control its size */
+#album-list li img {
+    width: 150px;  /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+}
